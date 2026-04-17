@@ -1,4 +1,4 @@
-# Zomato Tableau Dashboard Analysis
+# Zomato Restaurant Analytics Dashboard (Tableau)
 
 ## Dashboard Preview
 <img width="1918" height="984" alt="zoamto analysis ss tableau" src="https://github.com/user-attachments/assets/e323ea06-aac2-47d1-9dc7-b5139258b0f7" />
