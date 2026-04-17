@@ -17,11 +17,12 @@ Tableau
 Excel  
 
 ## Key Insights
-• New Delhi has the highest number of restaurants  
-• Majority of restaurants have ratings between 3.1 to 4.0  
-• North Indian cuisine is most popular  
-• Online delivery services contribute significantly to restaurant performance  
-• Restaurant openings show steady yearly growth  
+
+• New Delhi has the highest restaurant concentration, indicating strong market demand  
+• Most restaurants have ratings between 3.0 – 4.0, showing moderate customer satisfaction  
+• North Indian cuisine dominates the market demand across cities  
+• Online delivery availability significantly influences restaurant performance  
+• Restaurant openings show steady growth trend across years
 
 ## Dashboard Features
 • KPI metrics (Total restaurants, cities, cuisines, ratings)
@@ -32,11 +33,13 @@ Excel
 • Year-wise and monthly trend analysis
 
 ## Skills Demonstrated
-Data Visualization  
-Business Insight Generation  
-Trend Analysis  
-Dashboard Design  
-Data Interpretation  
+
+• Data Visualization using Tableau
+• Business Insight Generation
+• KPI Dashboard Design
+• Trend Analysis
+• Data Interpretation
+• Analytical Thinking 
 
 ## Business Impact
 The analysis helps identify high-demand cuisines, top-performing cities, and customer rating patterns. These insights support decision-making for market expansion, pricing strategy, and improving customer satisfaction.
