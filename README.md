@@ -1,7 +1,8 @@
 # Zomato Tableau Dashboard Analysis
 
 ## Dashboard Preview
-![Dashboard](dashboard-preview.png)
+<img width="1918" height="984" alt="zoamto analysis ss tableau" src="https://github.com/user-attachments/assets/e323ea06-aac2-47d1-9dc7-b5139258b0f7" />
+
 
 ## Project Overview
 This project analyzes Zomato restaurant data using Tableau to identify trends in restaurant distribution, customer ratings, cuisine popularity, and online delivery performance.
