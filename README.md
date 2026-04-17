@@ -1,45 +1,80 @@
-# Zomato Restaurant Analytics Dashboard (Tableau)
+# Restaurant Cuisine Insights Dashboard (Tableau)
 
 ## Dashboard Preview
-<img width="1918" height="984" alt="zoamto analysis ss tableau" src="https://github.com/user-attachments/assets/e323ea06-aac2-47d1-9dc7-b5139258b0f7" />
+<img width="1919" height="991" alt="image" src="https://github.com/user-attachments/assets/6b1fad56-8a55-4ba2-aa35-00c8f82b150b" />
 
+
+---
 
 ## Project Overview
-This project analyzes Zomato restaurant data using Tableau to identify trends in restaurant distribution, customer ratings, cuisine popularity, and online delivery performance.
+This project analyzes global restaurant dataset to identify patterns in cuisine demand, city-wise restaurant distribution, customer rating behavior, and online delivery availability.
 
-The dashboard helps stakeholders understand key business insights for expansion planning and service improvement.
+The dashboard helps stakeholders understand market trends and supports data-driven decisions related to expansion planning, cuisine offerings, and service improvements.
 
-## Problem Statement
-The food delivery industry requires data-driven insights to identify customer preferences, popular cuisines, and performance trends across cities.
+---
 
-## Tools Used
-Tableau  
-Excel  
+## Business Problem
+The restaurant industry is highly competitive and requires analytical insights to understand:
+
+- Which cuisines are most popular
+- Which cities have highest restaurant concentration
+- How customer ratings influence business performance
+- How online delivery impacts restaurant growth
+- Where expansion opportunities exist
+
+Without proper analysis, decision-making becomes assumption-based instead of insight-driven.
+
+---
+
+## Tools & Technologies
+- Tableau (Dashboard Development)
+- Excel (Data Cleaning & Preparation)
+
+---
 
 ## Key Insights
+- Identified top cities with highest restaurant concentration
+- Majority of restaurants have ratings between 3.0 and 4.0
+- North Indian cuisine shows highest popularity across locations
+- Online delivery availability influences restaurant performance
+- Restaurant openings show steady trend across years
 
-• New Delhi has the highest restaurant concentration, indicating strong market demand  
-• Most restaurants have ratings between 3.0 – 4.0, showing moderate customer satisfaction  
-• North Indian cuisine dominates the market demand across cities  
-• Online delivery availability significantly influences restaurant performance  
-• Restaurant openings show steady growth trend across years
+---
 
 ## Dashboard Features
-• KPI metrics (Total restaurants, cities, cuisines, ratings)
-• City-wise restaurant distribution
-• Cuisine popularity analysis
-• Rating distribution analysis
-• Online delivery performance visualization
-• Year-wise and monthly trend analysis
+- KPI cards for performance tracking
+- City-wise restaurant distribution analysis
+- Cuisine popularity comparison
+- Customer rating distribution visualization
+- Online delivery performance analysis
+- Year-wise and month-wise trend analysis
+- Interactive filters (Year, Quarter, Month)
+
+---
 
 ## Skills Demonstrated
+- Data Visualization
+- Business Requirement Analysis
+- KPI Design
+- Dashboard Development
+- Trend Analysis
+- Analytical Thinking
+- Insight Generation
 
-• Data Visualization using Tableau
-• Business Insight Generation
-• KPI Dashboard Design
-• Trend Analysis
-• Data Interpretation
-• Analytical Thinking 
+---
 
 ## Business Impact
-The analysis helps identify high-demand cuisines, top-performing cities, and customer rating patterns. These insights support decision-making for market expansion, pricing strategy, and improving customer satisfaction.
+Insights from this dashboard help businesses:
+
+- Identify high-demand cuisines for better menu strategy
+- Select high-potential cities for expansion
+- Improve customer satisfaction using rating insights
+- Evaluate online delivery performance impact
+- Support strategic decision-making using data
+
+---
+
+## Project Files
+- Tableau Dashboard (.twbx)
+- Dataset (.xlsx)
+- Dashboard Screenshot (.png)
